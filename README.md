@@ -6,7 +6,7 @@
 -	Google account to run Google Colab
 
 ### Procedure
-1.	Open the Google Colab Notebook: https://colab.research.google.com/drive/1yP0UTi-eUc1P1oKAEjqMmLEIDKiszU-i?usp=sharing
+1.	Open the Google Colab Notebook: https://colab.research.google.com/drive/1yP0UTi-eUc1P1oKAEjqMmLEIDKiszU-i?usp=sharing or access voice_cloning.ipynb file
 2.	(Optional) Open original and cloned voice samples to experience the result of voice cloning
 3.	Install ElevenLabs library
  
